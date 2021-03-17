@@ -13,7 +13,9 @@
 
 ## Experience
 -2021 training Introduction to Data Studio
+
 -2021 อบรมสู่การเป็นนักพัฒนาเว็บ : การสร้างหน้าเว็บเบื้องต้น ด้วย HTML และ CSS
+
 -2020 Audit training Cisco Networking Academy Program(R&S)
 
 ## SKILL
